@@ -1,0 +1,6 @@
+{
+  "name": "Car Rental",
+  "description": "A premium, fully responsive car rental website designed with a Clean Minimalism aesthetic. Features advanced live fleet filters, interactive side-by-side vehicle comparison matrix, favorite car wishlist, pricing estimate calculators, and instant booking via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
